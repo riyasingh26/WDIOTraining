@@ -1,5 +1,5 @@
 
--After cloning the repo from 'https://github.com/tavisca-psingh/WebdriverIO'
+-After cloning the repo from 'https://github.com/tavisca-psingh/WDIOTraining'
 Run `npm install` - Make sure you have NodeJs installed - preferrable 12X version
 
 -To compile all the typescript files and move to lib directory.

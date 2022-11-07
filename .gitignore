@@ -1,1 +1,4 @@
 node_modules
+lib
+allure-results
+package-lock.json
